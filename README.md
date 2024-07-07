@@ -25,11 +25,9 @@
 
 - To generate a password with 12 characters including uppercase letters, lowercase letters, numbers, and special characters, run:
 
-## Copy code
-
 ```python password_generator.py
 
- Requirements
+ ## Requirements
  Python 3.x
  No additional packages required.
  # Password-Generator
